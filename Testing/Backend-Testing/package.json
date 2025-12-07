@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "test": "jest"
+},
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.27.1",
     "jest": "^30.2.0",

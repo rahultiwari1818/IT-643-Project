@@ -27,7 +27,7 @@ router.get("/getUsers",verifyUser,getUsers);
 
 router.get("/getConversations",verifyUser,getConversations);
 
-router.get("getAllUsers",verifyUser,getAllUsers);
+router.get("/getAllUsers",verifyUser,getAllUsers);
 
 router.patch("/changeProfilePic",verifyUser,upload.single("photo"),changeProfilePic);
 

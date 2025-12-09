@@ -43,12 +43,12 @@ We followed a hybrid testing methodology:
 | Testing Type | Total Test Cases | Status |
 |--------------|------------------|--------|
 | Unit Testing | 32 | Passed |
-| Integration Testing | 18 | Passed |
+| Integration Testing | 1 | Passed |
 | Frontend UI (Selenium) | 10 | Passed |
 | Manual Edge & Boundary | 22 | Passed |
 | Socket Event Tests | 6 | Passed |
 
-### **Total Test Cases Executed: 88**  
+### **Total Test Cases Executed: 71**  
 ### **Overall Pass Percentage: ~100%**
 
 ## **6. Unit Testing Summary**
